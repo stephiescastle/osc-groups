@@ -27,3 +27,5 @@ OscGroupClient {server} 22242 22243 22244 22245 {you} {yourpass} {group} {groupp
    > This alias does not need to match your OscGroupClient username, but makes setup easier if it matches (so everyone knows what your nickname is and what to route by)
 
 3. Use `route` to route messages from other users. Example `route /user1`
+
+You can use the test patch as basis: [OSC-Groups-2021.maxpat](OSC-Groups-2021.maxpat)
